@@ -1,0 +1,1 @@
+# bash_maven_sonar_run
